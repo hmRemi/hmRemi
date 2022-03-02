@@ -3,7 +3,7 @@
 <h3 align="center">Hey! My name's ziue!</h3>
 <h3 align="center">I'm a passionate developer from Norway</h3>
   
-<img src="https://discord.c99.nl/widget/theme-1/351763589746393091.png" align="center"/>
+<img src="https://discord.c99.nl/widget/theme-1/351763589746393091.png" align="right"/>
   
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziuee&theme=onedark" alt="ziuee" /></a> </p>
