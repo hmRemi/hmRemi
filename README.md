@@ -75,6 +75,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziuee&layout=compact&theme=radical"
         alt="ziuee" />
 </p>
-<img align="center" alt="ziuee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ziuee&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="ziuee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ziuee&show_icons=true&hide_border=true&theme=radical" />
 
 <img align="center" src="https://discord.c99.nl/widget/theme-1/351763589746393091.png"/>
