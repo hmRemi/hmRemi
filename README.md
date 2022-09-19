@@ -3,7 +3,7 @@
 <h3 align="center">Hey! My name's ziue!</h3>
 <h3 align="center">I'm a passionate developer from Norway</h3>
 
-<img align="center" src="https://discord.c99.nl/widget/theme-1/351763589746393091.png"/>
+<img align="left" src="https://discord.c99.nl/widget/theme-1/351763589746393091.png"/>
 
 <h3 align="center">Trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
