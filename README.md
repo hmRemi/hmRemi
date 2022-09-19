@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ziuee&style=plastic)
 <hr>
-<img align="center"
+<img align="right"
             src="https://komarev.com/ghpvc/?username=ziuee&style=plastic"
             alt="ziue" />
 <h3 align="center">Hey! My name's ziue!</h3>
