@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ziuee&style=plastic)
+<h3 align="center">![](https://komarev.com/ghpvc/?username=ziuee&style=plastic)</h3>
 
 <h3 align="center">Hey! My name's ziue!</h3>
 <h3 align="center">I'm a passionate developer from Norway</h3>
