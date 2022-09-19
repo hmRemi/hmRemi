@@ -3,6 +3,9 @@
 
 <h3 align="center">Hey! My name's ziue!</h3>
 <h3 align="center">I'm a passionate developer from Norway</h3>
+<img align="right"
+            src="https://komarev.com/ghpvc/?username=ziuee&style=plastic"
+            alt="ziue" />
 <hr>
 
 
@@ -11,6 +14,17 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=ziuee&theme=onedark" alt="ziuee" />
     </a> 
+</p>
+<p>
+    <img align="center" alt="ziuee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ziuee&show_icons=true&hide_border=true&theme=radical" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ziuee&&theme=radical" alt="ziuee" />
+</p>
+<p>
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziuee&layout=compact&theme=radical"
+        alt="ziuee" />
+    <img align="right" src="https://discord.c99.nl/widget/theme-1/351763589746393091.png"/>
+    
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -66,17 +80,4 @@
             alt="redis" width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
             height="40" /> </a> </p>
-
-
-<p>
-    <img align="center" alt="ziuee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ziuee&show_icons=true&hide_border=true&theme=radical" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ziuee&&theme=radical" alt="ziuee" />
-</p>
-<p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziuee&layout=compact&theme=radical"
-        alt="ziuee" />
-    <img align="right" src="https://discord.c99.nl/widget/theme-1/351763589746393091.png"/>
-    
-</p>
 
