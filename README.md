@@ -3,7 +3,6 @@
             src="https://komarev.com/ghpvc/?username=ziuee&style=plastic"
             alt="ziue" /> 
             
-            ![](https://komarev.com/ghpvc/?username=ziuee&style=plastic)
 <hr>
 <h3 align="center">Hey! My name's ziue!</h3>
 <h3 align="center">I'm a passionate developer from Norway</h3>
