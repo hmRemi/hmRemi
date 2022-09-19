@@ -68,7 +68,7 @@
 
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziuee&&theme=radical" alt="ziuee" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ziuee&&theme=radical" alt="ziuee" />
 </p>
 <p>
     <img align="center"
