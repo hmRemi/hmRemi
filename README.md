@@ -6,7 +6,7 @@
 <img src="https://discord.c99.nl/widget/theme-1/351763589746393091.png" align="center"/>
   
 <h3 align="center">Trophies</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziuee&theme=onedark" alt="ziuee" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziuee&theme=onedark" alt="ziuee" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
