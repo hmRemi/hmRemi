@@ -77,4 +77,4 @@
 </p>
 <img align="center" alt="ziuee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ziuee&show_icons=true&hide_border=true&theme=radical" />
 
-<img align="right" src="https://discord.c99.nl/widget/theme-1/351763589746393091.png"/>
+<img align="center" src="https://discord.c99.nl/widget/theme-1/351763589746393091.png"/>
