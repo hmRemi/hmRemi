@@ -18,7 +18,7 @@
 <h3 align="center">Stats</h3>
 <p>
     <img align="center" alt="ziuee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ziuee&show_icons=true&hide_border=true&theme=radical" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ziuee&&theme=radical" alt="ziuee" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziuee&&theme=radical" alt="ziuee" />
 </p>
 
 <hr>
