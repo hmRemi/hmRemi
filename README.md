@@ -1,4 +1,3 @@
-<img align="center" src="https://discord.c99.nl/widget/theme-1/351763589746393091.png"/>
 <img align="center"
             src="https://komarev.com/ghpvc/?username=ziuee&style=plastic"
             alt="ziue" /> 
