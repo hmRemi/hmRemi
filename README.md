@@ -1,8 +1,4 @@
-<img align="center"
-            src="https://komarev.com/ghpvc/?username=ziuee&style=plastic"
-            alt="ziue" /> 
-  
-  [![HitCount](https://hits.dwyl.com/ziuee/ziuee.svg?style=flat-square)](http://hits.dwyl.com/ziuee/ziuee)
+[![HitCount](https://hits.dwyl.com/ziuee/ziuee.svg?style=flat-square)](http://hits.dwyl.com/ziuee/ziuee)
             
 <hr>
 <h3 align="center">Hey! My name's ziue!</h3>
