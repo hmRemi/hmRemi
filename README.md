@@ -1,6 +1,11 @@
 <img align="center"
             src="https://komarev.com/ghpvc/?username=ziuee&style=plastic"
             alt="ziue" /> 
+  
+  <img align="center"
+            src="https://hits.dwyl.com/ziuee/ziuee"
+            alt="ziue" /> 
+          
             
 <hr>
 <h3 align="center">Hey! My name's ziue!</h3>
