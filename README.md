@@ -1,4 +1,6 @@
+<p align="center">
 [![HitCount](https://hits.dwyl.com/ziuee/ziuee.svg?style=flat-square)](http://hits.dwyl.com/ziuee/ziuee)
+</p>
             
 <hr>
 <h3 align="center">Hey! My name's ziue!</h3>
