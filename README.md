@@ -1,4 +1,6 @@
-[![HitCount](https://hits.dwyl.com/ziuee/ziuee.svg?style=flat-square)](http://hits.dwyl.com/ziuee/ziuee)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ziuee&color=blueviolet"
+</p>
             
 <hr>
 <h3 align="center">Hey! My name's ziue!</h3>
