@@ -27,12 +27,12 @@
     <a href="https://dev.to/ziue" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
             alt="ziue" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/https://www.youtube.com/c/ziueyt" target="blank"><img align="center"
+    <a href="https://www.youtube.com/c/ziueyt" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="https://www.youtube.com/c/ziueyt" height="30" width="40" /></a>
-    <a href="[https://discord.gg/MCpyPHC9Qu](https://discord.gg/PRRapBrcU8)" target="blank"><img align="center"
+    <a href="https://discord.gg/PRRapBrcU8" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="MCpyPHC9Qu" height="30" width="40" /></a>
+            alt="https://discord.gg/PRRapBrcU8" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
