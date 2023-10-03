@@ -4,7 +4,6 @@
             
 <hr>
 <h3 align="center">Hey! My name's Devuxious!</h3>
-<h3 align="center">I'm a passionate developer.</h3>
 <hr>
 
 
