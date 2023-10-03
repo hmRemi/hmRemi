@@ -5,8 +5,8 @@
     <!-- credits: vast -->
     <div style="display: flex; justify-content: center; align-items: center;">
       <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=Devuxious&countColor=%23006EFF" alt="Profile Views"/>
-      <img height="25" src="https://img.shields.io/github/followers/Devuxious?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
-      <img height="25" src="https://img.shields.io/github/stars/Devuxious?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+      <img height="25" src="https://img.shields.io/github/followers/Devuxious?color=674fc9&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+      <img height="25" src="https://img.shields.io/github/stars/Devuxious?color=674fc9&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
     </div>
   </p>
 </div>
