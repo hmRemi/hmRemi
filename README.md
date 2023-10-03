@@ -1,23 +1,23 @@
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ziuee&color=blueviolet"
+    <img src="https://komarev.com/ghpvc/?username=Devuxious&color=blueviolet"
 </p>
             
 <hr>
-<h3 align="center">Hey! My name's ziue!</h3>
-<h3 align="center">I'm a passionate developer from Norway</h3>
+<h3 align="center">Hey! My name's Devuxious!</h3>
+<h3 align="center">I'm a passionate developer.</h3>
 <hr>
 
 
 <h3 align="center">Trophies</h3>
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ziuee&theme=radical" alt="ziuee" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Devuxious&theme=radical" alt="Devuxious" />
     </a> 
 </p>
 <h3 align="center">Stats</h3>
 <p align="center">
-    <img alt="ziuee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ziuee&show_icons=true&hide_border=true&theme=radical" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziuee&&theme=radical" alt="ziuee" />
+    <img alt="Devuxious's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Devuxious&show_icons=true&hide_border=true&theme=radical" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devuxious&&theme=radical" alt="Devuxious" />
 </p>
 
 <hr>
