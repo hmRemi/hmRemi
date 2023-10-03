@@ -7,16 +7,10 @@
 <hr>
 
 
-<h3 align="center">Trophies</h3>
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Devuxious&theme=radical" alt="Devuxious" />
-    </a> 
-</p>
+
 <h3 align="center">Stats</h3>
 <p align="center">
-    <img alt="Devuxious's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Devuxious&show_icons=true&hide_border=true&theme=radical" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devuxious&&theme=radical" alt="Devuxious" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=Devuxious&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
 </p>
 
 <hr>
