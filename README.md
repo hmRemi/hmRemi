@@ -1,6 +1,4 @@
 <hr>
-<h3 align="center">Hey! My name's Devuxious!</h3
-                                                
 <div align="center">
   <h3>Hey! My name's Devuxious!</h3>
   <p>
