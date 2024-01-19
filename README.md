@@ -1,4 +1,4 @@
-![Header](https://cdn.discordapp.com/attachments/696671912142569502/1197959178786963477/header.png)https://cdn.discordapp.com/attachments/696671912142569502/1197959178786963477/header.png
+![Header](https://cdn.discordapp.com/attachments/696671912142569502/1197959178786963477/header.png)
 
 <h1 align="center">Devuxious</h1>
 <div align="center">
@@ -16,4 +16,4 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=Devuxious&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
 </p>
 
-![Footer](https://cdn.discordapp.com/attachments/696671912142569502/1197959179135102986/footer.png)https://cdn.discordapp.com/attachments/696671912142569502/1197959179135102986/footer.png
+![Footer](https://cdn.discordapp.com/attachments/696671912142569502/1197959179135102986/footer.png)
