@@ -1,6 +1,6 @@
 ![Header](https://cdn.discordapp.com/attachments/461924356881121291/1198719726411595836/image_4.png)
 
-<h1 align="center">Devuxious</h1>
+<h1 align="center">Remi</h1>
 <div align="center">
   <p>
     <!-- credits: vast -->
