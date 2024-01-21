@@ -6,7 +6,7 @@
     <!-- credits: vast -->
     <div style="display: flex; justify-content: center; align-items: center;">
       <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=Devuxious&countColor=%23674fc9" alt="Profile Views"/>
-      <img height="25" src="https://img.shields.io/github/followers/Devuxious?color=674fc9&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+      <img height="25" src="https://img.shields.io/github/followers/Devuxious?color=070510&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
       <img height="25" src="https://img.shields.io/github/stars/Devuxious?color=674fc9&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
     </div>
   </p>
