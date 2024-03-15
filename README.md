@@ -1,4 +1,4 @@
-![Header](https://cdn.discordapp.com/attachments/1164603112519106650/1218166645139443782/image_4.png)
+![header](https://github.com/Devuxious/Devuxious/assets/17689226/6387114f-4948-44ad-bbd3-61a061a0a74d)
 
 <h1 align="center">Remi</h1>
 <div align="center">
@@ -16,4 +16,5 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=Devuxious&title_color=000000&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=000000&hide_title=true&count_private=false" />
 </p>
 
-![Footer](https://cdn.discordapp.com/attachments/461924356881121291/1198719730773659858/image_5.png)
+![footer](https://github.com/Devuxious/Devuxious/assets/17689226/378b7928-829e-467d-ac4e-631195ac72f7)
+
