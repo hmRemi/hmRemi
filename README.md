@@ -5,7 +5,7 @@
   <p>
     <!-- credits: vast -->
     <div style="display: flex; justify-content: center; align-items: center;">
-      <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=hmRemi&countColor=%23000000" alt="Profile Views"/>
+      <img height="25" src="http://localhost:3001/api/visitor?username=remi" alt="Profile Views"/>
       <img height="25" src="https://img.shields.io/github/followers/hmRemi?color=000000&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
       <img height="25" src="https://img.shields.io/github/stars/hmRemi?color=000000&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
     </div>
