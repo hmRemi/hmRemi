@@ -8,7 +8,6 @@
       <img height="25" src="http://localhost:3001/api/visitor?username=remi" alt="Profile Views"/>
       <img height="25" src="https://img.shields.io/github/followers/hmRemi?color=000000&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
       <img height="25" src="https://img.shields.io/github/stars/hmRemi?color=000000&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
-      [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C214GHT2)
     </div>
   </p>
 </div>
